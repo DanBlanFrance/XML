@@ -1,5 +1,5 @@
 <?xml version = "1.0" encoding = "WINDOWS-1251"?>
 <Title> PDP - Instead of values in the "warranty" field, the code is displayed </Title>
-<Action performed> 1. Open https://ngw-sandbox.lighthouselabs.eu/de/-----/auto/alle-fahrzeuge.html " </Action performed>
-<Expected result> Values should be displayed correctly </Expected result>
-<Actual result> Instead of values in the "warranty" field, the code is displayed </Actual result>
+<Action_performed> 1. Open https://ngw-sandbox.lighthouselabs.eu/de/-----/auto/alle-fahrzeuge.html " </Action_performed>
+<Expected_result> Values should be displayed correctly </Expected_result>
+<Actual_result> Instead of values in the "warranty" field, the code is displayed </Actual_result>
