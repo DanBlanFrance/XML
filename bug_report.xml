@@ -1,5 +1,6 @@
-<?xml version = "1.0" encoding = "WINDOWS-1251"?>
+<bugreport>
 <Title> PDP - Instead of values in the "warranty" field, the code is displayed </Title>
-<Action_performed> 1. Open https://ngw-sandbox.lighthouselabs.eu/de/-----/auto/alle-fahrzeuge.html " </Action_performed>
+<Action_performed> 1. Open https://ngw-sandbox.lighthouselabs.eu/de/-----/auto/alle-fahrzeuge.html  2. Click on "Volkswagen Golf Variant Comfortline" 3. Scroll to "warranty.label" </Action_performed>
 <Expected_result> Values should be displayed correctly </Expected_result>
 <Actual_result> Instead of values in the "warranty" field, the code is displayed </Actual_result>
+</bugreport>
