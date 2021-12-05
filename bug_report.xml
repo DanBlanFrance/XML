@@ -1,6 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <bugreport>
-<Title> PDP - Instead of values in the "warranty" field, the code is displayed </Title>
-<Action_performed> 1. Open https://ngw-sandbox.lighthouselabs.eu/de/-----/auto/alle-fahrzeuge.html  2. Click on "Volkswagen Golf Variant Comfortline" 3. Scroll to "warranty.label" </Action_performed>
-<Expected_result> Values should be displayed correctly </Expected_result>
-<Actual_result> Instead of values in the "warranty" field, the code is displayed </Actual_result>
+ <Title>PDP-Instead of values in the "warranty" field,the code is displayed</Title>
+ <step_category="Actions performed"> 
+  <step_1>1.Open https://ngw-sandbox.lighthouselabs.eu/de/-----/auto/alle-fahrzeuge.html</step_1>  
+  <step_2>2. Click on "Volkswagen Golf Variant Comfortline"</step_2>
+  <step_3>3. Scroll to "warranty.label"</step_3>
+ </step> 
+ <Expected_result>Values should be displayed correctly</Expected_result>
+ <Actual_result>Instead of values in the "warranty" field,the code is displayed</Actual_result>
 </bugreport>

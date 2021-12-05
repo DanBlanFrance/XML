@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <person>
-<First name> Dan </First name>
-<Last name> Alexandrovich </Last name>
-<Surname> Korablev </Surname>
-<Age> 35 </Age>
-<Number of pets> 2 </Number of pets>
-<Solary> $22222 </Solary>
+ <first_name>Dan</first_name>
+ <last_name>Alexandrovich</last_name>
+ <surname>Korablev</surname>
+ <age>35</age>
+ <number_of_pets>2</number_of_pets>
+ <solary>$22222</solary>
 </person>
